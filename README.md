@@ -1,2 +1,2 @@
-# genai-4-myosotis
+# GENAI 4 Myosotis
 A Convertional Tool For Wedding
